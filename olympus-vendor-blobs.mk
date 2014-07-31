@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/etc/firmware/nvrm_avp.bin:system/etc/firmware/nvrm_avp.bin \
     vendor/motorola/olympus/proprietary/etc/nvram.txt:system/etc/nvram.txt \
     vendor/motorola/olympus/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
-    vendor/motorola/olympus/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \\
+    vendor/motorola/olympus/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/motorola/olympus/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/motorola/olympus/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/motorola/olympus/proprietary/lib/libaudio_ext.so:system/lib/libaudio_ext.so \
